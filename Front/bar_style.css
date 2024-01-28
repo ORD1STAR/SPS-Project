@@ -1,0 +1,78 @@
+
+
+.bar { 
+    background-color: #C7DAFF;
+    height: auto;
+    margin: 10px;
+    border-radius: 9px;
+    border: 0.2px solid #000;
+    text-align: center;
+}
+.bar .generate, .save-dna, .save-rna{
+    border-radius: 7px;
+    margin: 5px;
+    padding: 10px;
+    border: 0.2px solid #001AFF;
+    background: linear-gradient(95deg, #4A8AFF -2.53%, #9562E5 103.79%);
+    width: 200px;
+    height: auto;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    line-break: strict;
+    transition: background 0.7s ease-in-out;
+    vertical-align: top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar .generate:hover, .save-dna:hover , .save-rna:hover{
+    background: linear-gradient(95deg, #2a74ff -2.53%, #8e4df6 103.79%);
+    cursor: pointer;
+}
+.save-dna img{
+    width: 18px;
+    margin-right: 20px;
+    filter: invert(100%);
+}
+.save-rna img{
+    width: 25px;
+    margin-right: 20px;
+    filter: invert(100%);
+}
+#drop_zone{
+    display: flex;
+    margin: 10px 5px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    border: 3px dashed #454545;
+    background: #EBF2FF;
+}
+#drop_zone svg{
+    width: 45px;
+    height: auto;
+    margin: 0;
+}
+#drop_zone p{
+    margin: 0;
+    font-size: 1.1em;
+    user-select: none;
+}
+#drop_zone button{
+    border-radius: 4px;
+    background: #0AE8CD;
+    display: flex;
+    padding: 15px;
+    margin: 20px;
+    border: 0.2px solid #000;
+    font-size: 1.1em;
+    justify-content: center;
+    align-items: center;
+}
+#drop_zone button:hover{
+    background: #0ed3bc;
+    cursor: pointer;
+}

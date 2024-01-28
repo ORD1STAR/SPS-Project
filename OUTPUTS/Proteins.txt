@@ -1,0 +1,11 @@
+Met-Lys-Lys-Asn-Phe-Arg-Pro-Lys-Thr-Arg-Thr-Gln-Asn-Lys-Glu-Arg-Ile
+Met-Ser-Glu-Gly-Arg-Thr-Leu-Gln
+Met-Arg-Ser-Thr-Val-Asn-Glu-Gly-Cys-Phe-Arg-Phe-Leu-Arg-Gln
+Met-Phe-Arg-Thr-Ser-Gln-Val-Thr-Phe-Tyr-Val-Cys-Thr-Leu-Gly-Asn-Asn-Val-Ile-Ile-Leu-Lys-Ile-Pro-Ala-Arg-Thr-Thr-Glu-Tyr-Gly-His
+Met-Ile-Phe-Thr-Phe-Leu-Ile-Gly-Ser-His-Gln
+Met-Arg-Ser-Pro-Thr-Pro-Ser-Ser
+Met-Ile-Phe-Met-Phe-Phe-Asn-Arg-Pro-Ala-Ala-Pro-Pro-Ala-Asp-Ile-Arg-Val-Asp-Asp-Pro-Ser-Asp-Ser-Val-Leu-Leu-Pro-His-Leu-Gly-Pro-Pro-Thr-Arg-Thr-Ser-Leu-Gly-Ser-Ser-Ala-Val-Thr
+Met-Phe-Gln-Pro-Leu-Pro-Trp-Leu-Leu-Val-Asn-Arg-Arg-Pro
+Met-Lys-Lys-Glu-Ile-Ser-Glu-Glu-Lys-Cys-Ser-Ile-Leu-Ser-Val-Lys-Glu-Val-Val-Asn-Val-Leu-Pro-Tyr-Gln-Arg-Pro-Arg-Lys-Val-Trp-Asn-Arg
+Met-Ser
+Met-Ile-Ser-Thr-Val-Leu-Phe-Tyr-Ser-Val

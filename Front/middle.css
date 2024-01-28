@@ -1,0 +1,117 @@
+.bod{
+    width: 100vw;
+    margin: 10px;
+}
+
+.dna{
+    display: flex;
+    margin: 0 0 10px 0;
+}
+.dna .title p{ 
+    margin-right: 10px;
+}
+.dna .content{ 
+    background-color: #D9D9D9;
+    width: calc(100vw - 320px);
+    overflow-x: auto;
+    padding: 5px;
+}
+.dna .content td{
+    padding:0;
+    min-width: 14px;
+    margin:0;
+    text-align: center;
+}
+
+.rna{ 
+    display: flex; 
+    margin: 10px 0 0 0;
+}
+.rna .title p{ 
+    margin-right: 10px;
+}
+.rna .content{ 
+    background-color: #D9D9D9;
+    width: calc(100vw - 320px);
+    overflow-x: auto;
+    padding: 5px;
+}
+.rna .content td{
+    padding:0;
+    min-width: 14px;
+    margin:0;
+    text-align: center;
+}
+
+.content:hover{
+    cursor: default;
+}
+.content p::selection {
+    background: #e3ecff;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px;
+    padding-bottom: 0;
+}
+.menu button{
+
+    width: calc((100vw - 400px)/2);
+    height: 50px;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    line-break: strict;
+    border-radius: 15px;
+    border: 0.2px solid #001AFF;
+    background: linear-gradient(95deg, #4A8AFF -2.53%, #9562E5 103.79%);
+}
+.menu button:hover{
+    background: linear-gradient(95deg, #2a74ff -2.53%, #8e4df6 103.79%);
+    cursor: pointer;
+}
+
+
+.prots{
+    /*overflow-x: scroll;*/
+    width: 100%;
+    margin:5px 0;
+}
+.protein{
+    background-color: #00092b40;
+    border-radius:50%;
+    padding:4px;
+    margin:5px;
+    font-size:1.2em;
+    align-items: center;
+}
+.ligne-prot{
+    display: flex;
+    border: 0.5px solid #000000;
+    width: fit-content;
+    
+}
+.bs-frq, .bs-frq th, .bs-frq td{
+    text-align:center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+
+*::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+  
+*::-webkit-scrollbar-track{
+    background: #b1b1b1;        /* color of the tracking area */  
+}
+  
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 255, 255);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid #b1b1b1;  /* creates padding around scroll thumb */
+}
